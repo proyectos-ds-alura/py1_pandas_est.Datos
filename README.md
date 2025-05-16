@@ -46,11 +46,13 @@ Se cargan los datos de las cuatro tiendas en dataframes separados con pandas.
 
 Se calcula la suma total del precio de los productos vendidos por cada tienda y se visualiza con un gráfico de barras verticales.
 
-![Gráfico de ingresos totales](images/ingresos totales x tienda.png)
+![Gráfico de ingresos totales](images/ingresos%20totales%20x%20tienda.png)
 
 ### Conteo de Productos por Categoría
 
 Se cuentan los productos vendidos por categoría en cada tienda y se crea una tabla pivote para visualizar con un heatmap, mostrando la distribución por tienda y categoría.
+
+![Heatmap de categorías](images/cant%20prod%20vend%20x%20cat%20y%20tienda.png)
 
 ### Calificación Promedio por Tienda
 
@@ -64,6 +66,7 @@ Se identifican los productos con mayor y menor cantidad de ventas en cada tienda
 
 Se calcula el costo promedio de envío por tienda y se visualiza con un gráfico de barras horizontales.
 
+![Gráfico de ingresos totales](images/costo%20envio%20x%20tienda.png)
 ---
 
 ## Visualizaciones
